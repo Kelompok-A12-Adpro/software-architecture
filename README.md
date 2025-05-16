@@ -50,7 +50,7 @@ Arsitektur diperbaharui untuk mengimplementasikan:
 - Database duplicate yang berperan untuk database cadangan dan arsip
 - Load balancer yang terhubung ke beberapa instance backend untuk mengurangi load request yang menumpuk
 
-Kekurangan dari implementasi di atas adalah perlunya cost lebih untuk me-maintain database baru dan beberapa instance tambahan yang akan dijalankan pada cloud server. Walaupun begitu, kelompok kami akan tetap melakukan diskusi lanjut seterusnya agar bisa meminimalkan kekurangan ini.
+Kekurangan dari implementasi di atas adalah perlunya cost lebih untuk me-maintain database baru dan beberapa instance tambahan yang akan dijalankan pada cloud server. Walaupun begitu, kelompok kami akan tetap melakukan diskusi lanjut seterusnya agar bisa meminimalkan efek dari kekurangan ini.
 
 
 ## Individual Diagram
