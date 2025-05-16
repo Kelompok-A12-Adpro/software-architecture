@@ -26,11 +26,11 @@ Risk Matrix
 
 - Container Diagram
 
-    *picture here*
+    ![Risk cont Diagram](img/risk-container.png)
 
 - Deployment Diagram
 
-    *picture here*
+    ![Risk depl Diagram](img/risk-deploy.png)
 
 Pada proses mengidentifikasi risk, kedua partisipan sama-sama setuju jika:
 - Masalah latensi autentikasi merupakan risiko yang akan sering terjadi, namun memiliki resiko keseluruhan sedang (6)
@@ -42,7 +42,7 @@ Pada proses mengidentifikasi risk, kedua partisipan sama-sama setuju jika:
 
 **Future Architecture**
 
-*picture here*
+![Future Architecture](img/future.png)
 
 Arsitektur diperbaharui untuk mengimplementasikan:
 - gRPC untuk komunikasi antara backend utama dan auth provider
@@ -54,5 +54,5 @@ Kekurangan dari implementasi di atas adalah perlunya cost lebih untuk me-maintai
 
 ## Individual Diagram
 
-| [Daniel Liman](Daniel.md) | Ivan Jehuda Angi | [Utandra Nur Ahmad Jais](Utandra.md) | [Valentino Kim Fernando](Valen.md) | Valentino Vieri Zhuo |
+| [Daniel Liman](Daniel.md) | Ivan Jehuda Angi | [Utandra Nur Ahmad Jais](Utandra.md) | [Valentino Kim Fernando](Valen.md) | [Valentino Vieri Zhuo](Tino.md) |
 | -- | -- | -- | -- | -- |
