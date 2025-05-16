@@ -2,16 +2,15 @@
 
 ## Context Diagram
 
-*picture here*
+![alt text](img/context.png)
 
 ## Container Diagram
 
-*picture here*
+![alt text](img/container.png)
 
 ## Deployment Diagram
 
-*picture here*
-
+![alt text](img/deploy.png)
 
 ## Risk Storming
 Risk Storming berikut merupakan hasil diskusi dari Valentino Kim Fernando dan Daniel Liman.
