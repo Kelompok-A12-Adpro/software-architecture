@@ -55,5 +55,5 @@ Kekurangan dari implementasi di atas adalah perlunya cost lebih untuk me-maintai
 
 ## Individual Diagram
 
-| [Daniel Liman](Daniel.md) | Ivan Jehuda Angi | Utandra Nur Ahmad Jais | [Valentino Kim Fernando](Valen.md) | Valentino Vieri Zhuo |
+| [Daniel Liman](Daniel.md) | Ivan Jehuda Angi | [Utandra Nur Ahmad Jais](Utandra.md) | [Valentino Kim Fernando](Valen.md) | Valentino Vieri Zhuo |
 | -- | -- | -- | -- | -- |
