@@ -6,7 +6,7 @@
 
 ## Container Diagram
 
-*picture here*
+![Container Diagram](img/ContainerDiagram.png)
 
 ## Deployment Diagram
 
