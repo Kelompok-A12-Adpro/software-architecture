@@ -1,7 +1,7 @@
 # Fitur Profile
 
 ## Component Diagram
-![alt text](image.png)
+![alt text](img/image.png)
 
 ## Code Diagram
-![alt text](image-1.png)
+![alt text](img/image-1.png)
