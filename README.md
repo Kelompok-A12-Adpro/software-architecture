@@ -26,11 +26,11 @@ Risk Matrix
 
 - Container Diagram
 
-    *picture here*
+    ![Risk cont Diagram](img/risk-container.png)
 
 - Deployment Diagram
 
-    *picture here*
+    ![Risk depl Diagram](img/risk-deploy.png)
 
 Pada proses mengidentifikasi risk, kedua partisipan sama-sama setuju jika:
 - Masalah latensi autentikasi merupakan risiko yang akan sering terjadi, namun memiliki resiko keseluruhan sedang (6)
