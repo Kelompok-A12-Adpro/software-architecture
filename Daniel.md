@@ -8,4 +8,4 @@
 
 ## Code Diagram
 
-*smth*
+![Code Diagram](img/daniel-code.png)
